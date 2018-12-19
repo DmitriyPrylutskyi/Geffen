@@ -1,0 +1,35 @@
+.options {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #f1f5fb;
+  .wrapper {
+    max-width: 1155px;
+    margin: 0 auto;
+    .outer {
+      width: 105px;
+      margin: 0 30px;
+      p {
+        width: 110px;
+        margin-top: 25px;
+        margin-bottom: 0;
+        margin-left: -3px;
+        font-size: 16px;
+        text-align: center;
+        line-height: 20px;
+      }
+      .inner {
+        position: relative;
+        width: 105px;
+        height: 105px;
+        border-radius: 50%;
+        background-color: #fbde05;
+        img {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translateX(-50%) translateY(-50%);
+        }
+      }
+    }
+  }
+}

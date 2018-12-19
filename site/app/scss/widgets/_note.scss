@@ -1,0 +1,29 @@
+.note {
+  position: relative;
+  padding-top: 95px;
+  padding-bottom: 45px;
+  background-image: url('../img/bg-note.png');
+  background-repeat: no-repeat;
+  h3 {
+    padding-bottom: 40px;
+  }
+  .image {
+    img {
+      position: absolute;
+      top: 105px;
+      right: -45px;
+    }
+  }
+  .description {
+    padding-right: 385px;
+    p {
+      float: right;
+      max-width: 630px;
+    }
+  }
+  .line {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: right;
+  }
+}

@@ -14,6 +14,13 @@
   font-style: normal;
 }
 @font-face {
+  font-family: 'FBADRENALIN-BOLD';
+  src: url('../fonts/FBADRENALIN-BOLD.eot') format('embedded-opentype');
+  src: url('../fonts/FBADRENALIN-BOLD.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
   font-family: 'EXO2.0-REGULAR_0';
   src: url('../fonts/EXO2.0-REGULAR_0.eot') format('embedded-opentype');
   src: url('../fonts/EXO2.0-REGULAR_0.ttf') format('truetype');
@@ -32,21 +39,6 @@
   font-family: 'EXO2.0-SEMIBOLD_0';
   src: url('../fonts/EXO2.0-SEMIBOLD_0.eot') format('embedded-opentype');
   src: url('../fonts/EXO2.0-SEMIBOLD_0.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'OPENSANS-REGULAR_0';
-  src: url('../fonts/opensans.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'OPENSANSHEBREW-REGULAR_0';
-  src: url('../fonts/OPENSANSHEBREW-REGULAR_0.eot') format('embedded-opentype');
-  src: url('../fonts/OPENSANSHEBREW-REGULAR_0.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
